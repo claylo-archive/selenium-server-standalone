@@ -14,5 +14,5 @@
     "autoload": {
         "psr-0": { "Claylo\\Selenium": "" }
     },
-    "target-dir": "Claylo/Selenium"
+    "target-dir": ""
 }

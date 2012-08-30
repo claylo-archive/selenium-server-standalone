@@ -3,7 +3,6 @@
     "type": "library",
     "description": "Composer distribution of Selenium Server Standalone, the browser automation framework.",
     "license": "Apache-2.0",
-    "version": "2.22.0",
     "authors": [
         {
             "name": "OpenQA",
